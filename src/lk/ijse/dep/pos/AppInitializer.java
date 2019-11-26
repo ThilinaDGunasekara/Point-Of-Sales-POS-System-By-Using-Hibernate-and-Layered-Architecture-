@@ -22,7 +22,6 @@ public class AppInitializer extends Application {
     @Override
     public void start(Stage primaryStage)  {
         try {
-
             // Let's setup the root logger
             Logger rootLogger = Logger.getLogger("");
             FileHandler fileHandler = new FileHandler("error.log", true);
