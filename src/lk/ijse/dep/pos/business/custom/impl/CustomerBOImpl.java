@@ -16,7 +16,7 @@ import java.util.List;
 
 public class CustomerBOImpl implements CustomerBO {
 
-    private CustomerDAO customerDAO = DAOFactory.getInstance().<CustomerDAO>getDAO(DAOTypes.CUSTOMER); // This is no need..
+    private CustomerDAO customerDAO = DAOFactory.getInstance().getDAO(DAOTypes.CUSTOMER); // This is no need..
     private OrderDAO orderDAO = DAOFactory.getInstance().getDAO(DAOTypes.ORDER);
 
     @Override

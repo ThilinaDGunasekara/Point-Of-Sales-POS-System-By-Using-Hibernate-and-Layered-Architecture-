@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
 import java.util.List;
 
-public abstract   class CrudDAOImpl <T extends SuperEntity, ID extends Serializable> implements CrudDAO <T, ID> {
+public abstract class CrudDAOImpl <T extends SuperEntity, ID extends Serializable> implements CrudDAO <T, ID> {
 
     protected Session session;
     private Class<T> entity;

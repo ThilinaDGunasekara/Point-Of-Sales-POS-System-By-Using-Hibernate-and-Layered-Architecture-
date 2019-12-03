@@ -10,12 +10,13 @@ public class OrderDetail implements SuperEntity{
     private OrderDetailPK orderDetailPK;
     private int qty;
     private double unitPrice;
+
     @ManyToOne(cascade = {CascadeType.PERSIST,CascadeType.DETACH,CascadeType.MERGE,CascadeType.REMOVE,CascadeType.REFRESH})
-            @JoinColumn(name = "orderId",referencedColumnName = "id",updatable = false,insertable = false)
-    private
-    Order order;
+    @JoinColumn(name = "orderId",referencedColumnName = "id",updatable = false,insertable = false)
+    private Order order;
+
     @ManyToOne(cascade = {CascadeType.PERSIST,CascadeType.DETACH,CascadeType.MERGE,CascadeType.REMOVE,CascadeType.REFRESH})
-            @JoinColumn(name = "itemCode",referencedColumnName = "code",updatable = false,insertable = false)
+    @JoinColumn(name = "itemCode",referencedColumnName = "code",updatable = false,insertable = false)
     private
     Item item;
 
