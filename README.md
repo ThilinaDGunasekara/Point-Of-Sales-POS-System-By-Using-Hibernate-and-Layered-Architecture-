@@ -1,6 +1,6 @@
 # Point Of Sales(POS) System By Using Hibernate and Layered Architecture 
 
-# Introduction
+## Introduction
 
 This application is simple POS(Point Of Sales) system who can use to sore,
         
@@ -10,7 +10,7 @@ This application is simple POS(Point Of Sales) system who can use to sore,
         
 And also this application was developed by using Hibernate and layered architecture.
 
-# Requirements
+## Requirements
 
 Before use this application you must need to install JAVA runtime environment and MYSQL database management services..
 links :  
@@ -18,11 +18,11 @@ links :
     [MySQL](https://www.mysql.com/)
 
 
-# Installation
+## Installation
 
 If you did above installations, You only have to double click the jar file and install the jar file..
 
-# Author
+## Author
 
 name  : MLDTDU Gunasekara
 
@@ -31,7 +31,7 @@ e-mail : thilinadhammika86@gmail.com
 [Github](https://github.com/ThilinaDGunasekara) username : ThiinaDGunasekara
 
 
-# Built With
+## Built With
 
 Author use following technologies to made this system.
 
@@ -45,32 +45,32 @@ Author use following technologies to made this system.
         Regular Expressions
         Hibernate
 
-# Screen Shots
+## Screen Shots
 
 This system include 5 interfaces designing and If some one want to get some idea about user interface designing of this system they can use this screen shots.
 
-Dash Bord
+##### Dash Bord
 
 ![Ait text](screen%20shots/IMG_20191203_151843.JPG)
 
-Manage Customer View
+##### Manage Customer View
 
 ![Ait text](screen%20shots/IMG_20191203_151817.JPG)
 
-Manage Item View
+##### Manage Item View
 
 ![Ait text](screen%20shots/IMG_20191203_151743.JPG)
 
-Place Order View
+##### Place Order View
 
 ![Ait text](screen%20shots/IMG_20191203_151706.JPG)
 
-Search Order View
+##### Search Order View
 
 ![Ait text](screen%20shots/IMG_20191203_151636.JPG)
 
 
-# License
+## License
 
 License Under the [MIT LICENSE](LICENSE)
 
