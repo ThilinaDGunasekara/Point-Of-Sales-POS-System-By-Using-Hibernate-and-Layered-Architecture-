@@ -48,8 +48,25 @@ Author use following technologies to made this system.
 
 This system include 21 interfaces designing and If some one want to get some idea about user interface designing of this system they can use this screen shots.
 
+Dash Bord
 
+![Ait text](screen%20shots/IMG_20191203_151843.JPG)
 
+Manage Customer View
+
+![Ait text](screen%20shots/IMG_20191203_151817.JPG)
+
+Manage Item View
+
+![Ait text](screen%20shots/IMG_20191203_151743.JPG)
+
+Place Order View
+
+![Ait text](screen%20shots/IMG_20191203_151706.JPG)
+
+Search Order View
+
+![Ait text](screen%20shots/IMG_20191203_151636.JPG)
 
 
 #License
